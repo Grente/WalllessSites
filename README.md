@@ -39,7 +39,7 @@ ___
 * [发现](http://www.reuters.com/) -- 著名的科学期刊，报道科学界动态
   
 * [科技评](https://www.technologyreview.com/) -- 科学类期刊
-
+* [科技新时代杂志](https://www.popsci.com/) -- Popular Science是美国销量的生活科技信息杂志，共11个版本以9种文字在世界各地同步发行。
 
 <br>
 
