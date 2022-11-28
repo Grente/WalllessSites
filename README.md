@@ -23,7 +23,6 @@ ___
 
 * [美联社](https://www.ap.org/) -- 1848年成立，世界主要通讯社之一，世界四大通讯社之一
 * [福克斯新闻FoxNews](https://www.foxnews.com/world/) -- 美国有线电视福克斯新闻频道
-* [美国有线电视新闻网CNN](https://edition.cnn.com/) -- 美国最大的专门播送新闻的电视公司
 
 * [俄塔社ITAR-TASS](https://tass.com/) -- 俄罗斯通讯社，承前苏联国家级通讯社的血脉，俄罗斯及周边的新闻较多
 * [东亚日报](https://www.donga.com/) -- 韩国创刊最早的报纸之一，被称为“民族报”和“民族魂”
